@@ -1,0 +1,36 @@
+
+body{
+    background-color: lightgrey;
+}
+
+h1{
+    background-color: aliceblue;
+    margin: center;
+    text-align: center;
+    color: skyblue
+}
+h2{
+    background-color: gainsboro ;
+    text-align:left;
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+h3{
+    color: cornflowerblue;
+    background-color: rosybrown;
+    text-align: center;
+    margin: 1px;
+    border:3px palegreen;
+    padding:1px;
+    box-sizing: border-box;
+font-weight: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 3px;
+
+
+}
+
